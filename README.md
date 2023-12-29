@@ -2,7 +2,9 @@
 
 ## Profil
 Nama : Muhamad Farrel Rizqullah
+
 Kelas : TI-3B
+
 Absen : 20
 
 ## Gambaran Umum
