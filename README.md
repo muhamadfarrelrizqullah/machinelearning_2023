@@ -1,4 +1,4 @@
-# Tugas Machine Learning
+# Jobsheet Machine Learning
 
 ## Profil
 Nama : Muhamad Farrel Rizqullah
